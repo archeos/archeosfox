@@ -1,0 +1,16 @@
+Source: archeosfox
+Section: web
+Priority: optional
+Maintainer: Fabrizio Furnari <fab.furnari@gmail.com>
+Build-Depends: cdbs, debhelper (>= 7), mozilla-devscripts (>= 0.16~)
+Standards-Version: 0.1
+Homepage: http://www.archeos.eu/
+
+Package: xul-ext-archeosfox
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: ${xpi:Recommends}
+Provides: ${xpi:Provides}
+Enhances: ${xpi:Enhances}
+Description: provides some modifications to iceweasel/firefox for ArcheOS
+ archeosfox provides some modifications to iceweasel/firefox for ArcheOS

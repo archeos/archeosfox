@@ -1,0 +1,6 @@
+content   archeosfox                 chrome/content/
+skin      archeosfox   classic/1.0   chrome/skin/
+locale    archeosfox   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://archeosfox/content/ff-overlay.xul

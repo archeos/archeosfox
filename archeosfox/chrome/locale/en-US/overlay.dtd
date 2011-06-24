@@ -1,0 +1,8 @@
+<!ENTITY archeosfox.label "Your localized menuitem">
+<!ENTITY archeosfoxContext.label "Your Menuitem">
+<!ENTITY archeosfoxContext.accesskey "Y">
+<!ENTITY archeosfoxToolbarButton.label "Your Toolbar Button">
+<!ENTITY archeosfoxToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY archeosfoxSidebar.label "Your Sidebar">
+<!ENTITY archeosfoxToolbar.name  "example">
+<!ENTITY archeosfoxToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &archeosfoxToolbar.name;">
