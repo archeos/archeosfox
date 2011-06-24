@@ -14,3 +14,4 @@ BUILDING
 	* git add .
 	* git commit
 	* debuild
+	* debuild clean
