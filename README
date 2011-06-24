@@ -1,0 +1,16 @@
+Instructions on how to build archeosfox
+
+PREREQUISITES:
+
+	* devscripts, mozilla-devscripts, git-core
+
+BUILDING
+
+	* git pull
+	* cd archeosfox/
+	* ...do your modifications here...
+	* update debian/control
+	* update debian/changelog
+	* git add .
+	* git commit
+	* debuild
