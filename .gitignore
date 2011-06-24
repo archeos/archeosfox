@@ -1,0 +1,5 @@
+archeosfox*.dsc
+archeosfox*.tar.gz
+archeosfox*build
+archeosfox*changes
+*.deb
